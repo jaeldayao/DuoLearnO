@@ -1,0 +1,42 @@
+<html>
+<head><title></title></head>
+<body background="linespaper (1).jpg">
+<div align="center"> <font face="Cooper Black" size="7" color="#336699"> Welcome to </font><font face="Showcard Gothic" size="8" color="FFCC66"> DuoLearn-o! </font><br>
+<font face="Comic Sans MS" size="3" color="black">Made By: Micah Lui Jael Dayao & Joshua Lorenz Cornejo of 8-Pearl<hr size="2" color="black" width="1200px">
+<button type="button" onclick="location.href='DuoLearn-0 (1).html'">Go Back</button><br><br>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+<h1 class="animate__animated animate__bounce"><img src="SIGNUP (1).png" height="244" width="960"></h1><br>
+<form action="mailto:jaeldayao@gmail.com" method="post">
+<font size="5">Username<br>
+<input type="text" placeholder="Username" name="username" required><br><br>
+<div>
+Password<br>
+  <label for="pass"></label>
+  <input type="password" placeholder="Password" id="pass" name="password" minlength="8" required />
+</div><br>
+Contact Number<br>
+<input type="number" value="Contact Number" name="contact number" required>
+<br><br></font>
+<hr size="3" color="black" width="1000">
+<font face="Comic Sans MS" size="7">Welcome to our </font>
+<font face="showcard gothic" size="7" color="#336699">DUO</font><font face="showcard gothic"
+size="7"  color="FFCC66">LEARN-O <font face="showcard gothic" size="7" color="#336699">FAMILY!</font></font><br>
+<b>This is our schedule of tutoring:</b><br><br>
+<font face="cooper black" size="6" color="#336699">Jael </font>
+<font face="showcard gothic" size="6" color="FFCC66">(Science, English, EsP, Mother Tongue):</font>
+<br>
+Monday-Thursday @7:00 pm<br><br>
+<font face="cooper black" size="6" color="FFCC66">Joshua</font>
+<font face="showcard gothic" size="6" color="#336699">(Math, Filipino, AP, TLE, MAPEH)</font><br>
+Monday-Thursday @5:00 pm<br><br>
+<input type="submit" value="Submit">
+<input type="reset"><br><br>
+<hr size="2" color="black" width="1200px">
+<font face="cooper black" size="10" color="#336699"> Thank </font><font face="cooper black" size="8" color="#FFCC66">You!</font>
+<br> for answering our registration form.<br><br>
+<font size="5"> Have any questions? Message us on FaceBook!<br>
+<a href="https://www.facebook.com/micah.dayao"> Jael Dayao </a><br>
+<a href="https://www.facebook.com/joshualorenz.cornejo"> Joshua Cornejo </a></font>
+</form>
+</body>
+</html>
